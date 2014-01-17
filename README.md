@@ -4,23 +4,14 @@ New_Project_Shopping
 This is new Shopping Project given by Shubankar Hazzari
 
 
-For Display:
------------
-
-To show this website you must have following Dependency
-
-1: Ruby version 1.9.3
-2: Rails version 4.0.0
-3: Spree version 2.1.3
-
 For Development:
 ----------------
 
 Clone the Directory:
 -------------------
-1: git clone 
+1: Take clone of Repository 
 2: run bundle install
-3: cd store
+3: cd sandbox
 4: rails s
 
 for commit your changement:
